@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RecyclerView Demo</string>
+
+    <array name="foods">
+        <item>Banana</item>
+        <item>Apple</item>
+        <item>Strawberry</item>
+        <item>Blueberry</item>
+        <item>Pecans</item>
+        <item>Peanut Butter</item>
+        <item>Jelly</item>
+        <item>Pizza</item>
+        <item>Hamburger</item>
+        <item>Bacon</item>
+        <item>Fries</item>
+        <item>Pickles</item>
+        <item>Steak</item>
+    </array>
+
+    <array name="androids">
+        <item>Ice Cream</item>
+        <item>Nougat</item>
+        <item>Marshmallow</item>
+        <item>Donut</item>
+        <item>Gingerbread</item>
+        <item>Froyo</item>
+        <item>Cupcake</item>
+        <item>Eclair</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Honeycomb</item>
+        <item>Jelly Bean</item>
+        <item>Kit Kat</item>
+        <item>Lollipop</item>
+    </array>
+</resources>
